@@ -2,14 +2,14 @@
 #
 
 # Site settings
-title: Spectral
+title: HOUSER
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+       这是我第一个网站
+  利用github搭建自己的个人博客  
+  这是我的地址(http://i.ui.cn/ucenter/185286.html)
+owner: houser yang # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: 1126457667@qq.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
